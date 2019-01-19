@@ -8,7 +8,7 @@
       <v-spacer></v-spacer>
       <v-btn
         flat
-        href="https://https://bushi-eb532.firebaseapp.com"
+        href="https://cardfight-run.cf-vanguard.com"
         target="_blank"
       >
         <span class="mr-2">BushiRoad game</span>
